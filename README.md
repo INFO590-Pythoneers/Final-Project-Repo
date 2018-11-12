@@ -1,6 +1,5 @@
 # Final-Project-Repo
 <h2><strong>INFO-590 Final Project Repository</strong></h2>
-
 <h3>PHASE 1 (30%)</h3>
 <p>During the first week, you need to complete following data analysis tasks.</p>
 <ul>
@@ -13,7 +12,7 @@
 <ul>
 <li>Kathleen DeBrota -</li>
 <li>Makkari Peter Cheng -</li>
-<li>Joshua McGovern -</li>
+<li>Joshua McGovern - <span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif;">Created the team&rsquo;s GitHub repository, created the folder directory in GitHub, uploaded main data file into GitHub, created/updated GitHub README.md, coded the bar plot for CLASS, merged final version code into GitHub master branch, attended 11/10/18 team web conference, and email communications.</span></li>
 </ul>
 <h3>PHASE 2 (40%)</h3>
 <p>In the second phase you will implement k-means algorithm:</p>
