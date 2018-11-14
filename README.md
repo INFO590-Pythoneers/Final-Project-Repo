@@ -10,7 +10,7 @@
 </ul>
 <p><strong><span style="font-size: 12pt;">PHASE 1 Contributions:</span></strong></p>
 <ul>
-<li>Kathleen DeBrota - Learned how to use github, split dataframe and coded the 9 histograms of A2 to A10, set up scheduled team meetings, cross-checked others' code and ensured it made sense, attended 11/10/18 team web conference and email communications.</li>
+<li>Kathleen DeBrota - Learned how to use github, split dataframe and coded the 9 histograms of A2 to A10, set up scheduled team meetings, cross-checked others' code and ensured it made sense, added insights to the summary analysis, edited for clarity, attended 11/10/18 team web conference and email communications.</li>
 <li>Makkari Peter Cheng -Created the initial Jupyter notebook file, created initial imports, download and load data into python, impute the missing values, scatter plots, computer data statistics: mean, median, standard deviation, variance and coefficient of variance and  summary report of what should be standardized due to high variance, attended 11/10/18 team web conference and email communications.</li>
 <li>Joshua McGovern - <span style="font-size: 11.0pt; line-height: 107%; font-family: 'Calibri',sans-serif;">Created the team&rsquo;s GitHub repository, created the folder directory in GitHub, uploaded main data file into GitHub, created/updated GitHub README.md, coded the bar plot for CLASS, merged final version code into GitHub master branch, attended 11/10/18 team web conference, and email communications.</span></li>
 </ul>
