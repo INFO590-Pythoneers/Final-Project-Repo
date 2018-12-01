@@ -26,7 +26,7 @@
 <ul>
 <li>Kathleen DeBrota -</li>
 <li>Makkari Peter Cheng - Completed revise data variation, plotted standard deviation values with title legends, with y and x axis labels, described features with lots of variation, implement normalization on the data, printed the centroids post normalization, double checked team member's work, submit assignment, attended 11/16/18 team web conference and email communications.</li>
-<li>Joshua McGovern -</li>
+<li>Joshua McGovern - Completed the find optimal number of clusters objective, created the phase 2 GitHub folders for code and data, uploaded the updated .csv data file for phase 2, checked team member’s work, attended 11/16/18 team web conference and email communications.</li>
 </ul>
 <h3>PHASE 3 (30%)</h3>
 <p>During the third week, you will analyze the quality of the clustering.</p>
