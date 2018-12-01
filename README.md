@@ -25,7 +25,7 @@
 <p><strong><span style="font-size: 12pt;">PHASE 2 Contributions:</span></strong></p>
 <ul>
 <li>Kathleen DeBrota -</li>
-<li>Makkari Peter Cheng -</li>
+<li>Makkari Peter Cheng - Completed revise data variation, plotted standard deviation values with title legends, with y and x axis labels, described features with lots of variation, implement normalization on the data, printed the centroids post normalization, double checked team member's work, submit assignment, attended 11/16/18 team web conference and email communications.</li>
 <li>Joshua McGovern -</li>
 </ul>
 <h3>PHASE 3 (30%)</h3>
