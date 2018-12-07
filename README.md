@@ -32,7 +32,7 @@
 <p>During the third week, you will analyze the quality of the clustering.</p>
 <ul>
 <li style="tab-stops: list .5in;">Write a code to calculate the individual and total error rate of your 2 clusters.</li>
-<li style="tab-stops: list .5in;">Visualize clusters in matplot</li>
+<li style="tab-stops: list .5in;">Report statement (150-200 words)</li>
 </ul>
 <p><strong><span style="font-size: 12pt;">PHASE 3 Contributions:</span></strong></p>
 <ul>
