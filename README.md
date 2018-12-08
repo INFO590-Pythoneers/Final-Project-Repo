@@ -38,5 +38,5 @@
 <ul>
 <li>Kathleen DeBrota - Completed all sections of phase 3 (cluster, dataframe, and error rate function) and compared results with teammates;we all got the same results. Then collaborated on final version to submit. Contributed to and typed the final reflection report. Checked teammates' work, and attended group meeting 12/7/18. </li>
 <li>Makkari Peter Cheng -</li>
-<li>Joshua McGovern -</li>
+<li>Joshua McGovern -The following was completed by each group member and results were compared via web conference (Cluster, DataFrame, and Error Rate Function), collaborated with group in Google Docs on Final Report, attended 12/5/18 team web conference, attended 12/7/18 team web conference and email communications.</li>
 </ul>
