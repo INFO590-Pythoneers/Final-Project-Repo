@@ -24,7 +24,7 @@
 </ul>
 <p><strong><span style="font-size: 12pt;">PHASE 2 Contributions:</span></strong></p>
 <ul>
-<li>Kathleen DeBrota -</li>
+<li>Kathleen DeBrota - Sliced the dataframe to remove the Scn and CLASS columns. Implemented KMeans clustering with 4 clusters, explored basic stats of the data, and found/printed the centroid locations per cluster. Double checked teammates' work, attended 11/16/18 meeting. </li>
 <li>Makkari Peter Cheng - Completed revise data variation, plotted standard deviation values with title legends, with y and x axis labels, described features with lots of variation, implement normalization on the data, printed the centroids post normalization, double checked team member's work, submit assignment, attended 11/16/18 team web conference and email communications.</li>
 <li>Joshua McGovern - Completed the find optimal number of clusters objective, created the phase 2 GitHub folders for code and data, uploaded the updated .csv data file for phase 2, checked team member’s work, attended 11/16/18 team web conference and email communications.</li>
 </ul>
@@ -36,7 +36,7 @@
 </ul>
 <p><strong><span style="font-size: 12pt;">PHASE 3 Contributions:</span></strong></p>
 <ul>
-<li>Kathleen DeBrota -</li>
+<li>Kathleen DeBrota - Completed all sections of phase 3 (cluster, dataframe, and error rate function) and compared results with teammates;we all got the same results. Then collaborated on final version to submit. Contributed to and typed the final reflection report. Checked teammates' work, and attended group meeting 12/7/18. </li>
 <li>Makkari Peter Cheng -</li>
 <li>Joshua McGovern -</li>
 </ul>
