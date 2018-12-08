@@ -37,6 +37,6 @@
 <p><strong><span style="font-size: 12pt;">PHASE 3 Contributions:</span></strong></p>
 <ul>
 <li>Kathleen DeBrota - Completed all sections of phase 3 (cluster, dataframe, and error rate function) and compared results with teammates;we all got the same results. Then collaborated on final version to submit. Contributed to and typed the final reflection report. Checked teammates' work, and attended group meeting 12/7/18. </li>
-<li>Makkari Peter Cheng -</li>
+<li>Makkari Peter Cheng - Completed all sections of phase 3 (cluster, dataframe, and error rate function) and compared results with teammates; determined we all got the same results with different implentations between the 3 of us. We did this approach to validate the final error rates we were computing. Collaborated on the final reflection report, submit phase 3 assignment. Assisted teammates with work, attended 12/5/18 team web conference, attended 12/7/18 team web conference and email communications. </li>
 <li>Joshua McGovern -The following was completed by each group member and results were compared via web conference (Cluster, DataFrame, and Error Rate Function), collaborated with group in Google Docs on Final Report, attended 12/5/18 team web conference, attended 12/7/18 team web conference and email communications.</li>
 </ul>
